@@ -1,10 +1,10 @@
-# DeepSeek Desktop 🚀
+# DeepSeek Desktop [jailbreak added] 🚀
 
-**DeepSeek Desktop** is a cross-platform desktop application that brings the power of [DeepSeek](https://chat.deepseek.com/), your AI companion, directly to your computer. Designed for simplicity and convenience, it allows you to interact with DeepSeek in a native desktop environment, complete with support for `localStorage` and `cookies`.
+**DeepSeek Desktop [jailbreak added]** is a cross-platform desktop application that brings the power of [DeepSeek](https://chat.deepseek.com/), your AI companion, directly to your computer. Designed for simplicity and convenience, it allows you to interact with DeepSeek in a native desktop environment, complete with support for `localStorage` and `cookies`.
 
 ---
 
-## 🌟 **Why DeepSeek Desktop?**
+## 🌟 **Why DeepSeek Desktop [jailbreak added]?**
 
 Artificial intelligence has the potential to revolutionise how we interact with technology. Inspired by other AI applications, I created **DeepSeek Desktop** to make this powerful tool more accessible and user-friendly. By offering a dedicated desktop application, I aim to take DeepSeek's capabilities even further, ensuring it reaches as many people as possible.
 
@@ -26,7 +26,7 @@ Artificial intelligence has the potential to revolutionise how we interact with 
 1. Click the button below to download the installer directly:
    [**Download DeepSeek Desktop 1.0.0 for Windows**](https://github.com/doxdk/deepseek-desktop/releases/download/RELEASE/DeepSeek.Setup.1.0.0.exe)
 2. Run the `.exe` file and follow the on-screen instructions.
-3. Launch **DeepSeek Desktop** and start chatting with the AI!
+3. Launch **DeepSeek Desktop [jailbreak added]** and start chatting with the AI!
 
 ### Option 2: Build from Source (For Developers)
 If you prefer to build the application yourself, follow these steps:
@@ -58,7 +58,7 @@ If you prefer to build the application yourself, follow these steps:
 
 ## 🛠️ **System Requirements**
 
-- **Windows**: Windows 10 or later.
+- **Windows**: Windows 7 or later.
 - **macOS**: *Coming soon in version 1.0.1.*
 - **Linux**: *Coming soon in version 1.0.1.*
 
@@ -86,8 +86,8 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## ❓ **Why This Project?**
 
-I created **DeepSeek Desktop** because I believe that AI tools like DeepSeek have the potential to transform how we interact with technology. By offering a desktop application, I hope to make this powerful tool more accessible and user-friendly, ensuring it reaches as many people as possible. Let's take DeepSeek to new heights together! 🚀
+I created **DeepSeek Desktop [jailbreak added]** because I believe that AI tools like DeepSeek have the potential to transform how we interact with technology. By offering a desktop application, I hope to make this powerful tool more accessible and user-friendly, ensuring it reaches as many people as possible. Let's take DeepSeek to new heights together! 🚀
 
 ---
 
-Made with ❤️ by **doxdk & La Cantera Studios**.
+Made with ❤️ by **doxdc & La Cantera Studios**.
